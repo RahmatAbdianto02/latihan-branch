@@ -1,3 +1,3 @@
 # latihan-branch
 
-test 123
+test 12
